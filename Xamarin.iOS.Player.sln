@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.iOS.Player", "Xamarin.iOS.Player\Xamarin.iOS.Player.csproj", "{05449611-13F4-4EBF-B96E-015A4602C573}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05449611-13F4-4EBF-B96E-015A4602C573}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{05449611-13F4-4EBF-B96E-015A4602C573}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{05449611-13F4-4EBF-B96E-015A4602C573}.Release|iPhone.ActiveCfg = Release|iPhone
+		{05449611-13F4-4EBF-B96E-015A4602C573}.Release|iPhone.Build.0 = Release|iPhone
+		{05449611-13F4-4EBF-B96E-015A4602C573}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{05449611-13F4-4EBF-B96E-015A4602C573}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{05449611-13F4-4EBF-B96E-015A4602C573}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{05449611-13F4-4EBF-B96E-015A4602C573}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
